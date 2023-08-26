@@ -18,3 +18,5 @@ New-Item "\\?\C:\Windows \System32" -ItemType Directory
 ```
 md "\\?\C:\Windows \System32"
 ```
+
+After a fake Windows Folder should be made, open it from the C://, then go to System32 and copy over "computerdefualts.exe" then copy the .dll file named "profapi.dll" from stable releases or build it yourself from the instruction on how to do so later below. After, open "computerdefualts.exe" and boom a cmd prompt should open.

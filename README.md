@@ -23,3 +23,6 @@ After a fake Windows Folder should be made, open it from the C://, then go to Sy
 
 
 ![Tro113d Thumbnail](https://i.ibb.co/sFNsfMp/trolledsnapshot.jpg)
+
+## How To Build
+

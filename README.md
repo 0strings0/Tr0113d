@@ -1,4 +1,4 @@
-# Trolled - DLL Injector Exploit
+# Trolled - DLL Injection Exploit
 
 
 Trolled is a powerful  DLL injector exploit designed to allow privilege escalation. It is meant to be used for windows 10/11. This project is meant as a bypass for school laptops and other locked devices given out by organizations. This exploit should not be used for any malicious or illegal means.

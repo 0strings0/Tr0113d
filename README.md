@@ -7,7 +7,7 @@ Trolled is a powerful  DLL injector exploit designed to allow privilege escalati
 
 Trolled exploits a common vulnerability in certain systems that allows unauthorized escalation of privileges by tricking the system into running fake system dlls in a mock folder. Which the dll will then open a admin prompt to fool around in.
 
-## How to use
+## How To Use
 First we make a mock folder of Windows/System32. The mock folder has to have included the subdirectory in the command. 
 #### Powershell Command
 ```

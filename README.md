@@ -25,4 +25,7 @@ After a fake Windows Folder should be made, open it from the C://, then go to Sy
 ![Tro113d Thumbnail](https://i.ibb.co/sFNsfMp/trolledsnapshot.jpg)
 
 ## How To Build
-
+Download the project and make sure to have Visual Studio 2022, and have Desktop Development with C++. After find the most updated version of d3d template. After make any changes and click build. After use upx to compress it from 54k to 14k this will help it not be detected by anti-virus. If needed you can also obsfucate the dll above for further help against anti-viruses.
+```
+upx --best "Trolled 3.0.dll"
+```

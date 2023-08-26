@@ -29,3 +29,7 @@ Download the project and make sure to have Visual Studio 2022, and have Desktop 
 ```
 upx --best "Trolled 3.0.dll"
 ```
+
+## Virus Total Score
+
+![Tro113d Virustotal](https://i.ibb.co/yd9D0Ls/trolledvirustotal.jpg)

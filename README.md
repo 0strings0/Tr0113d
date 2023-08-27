@@ -1,3 +1,5 @@
+# NOTE: DOES NOT WORK WITH SOME VERSIONS OF WINDOWS 11.
+
 # Trolled - DLL Injection Exploit
 
 
